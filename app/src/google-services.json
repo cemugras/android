@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031771737268",
+    "firebase_url": "https://multibrain-d06c3.firebaseio.com",
+    "project_id": "multibrain-d06c3",
+    "storage_bucket": "multibrain-d06c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031771737268:android:09bff246e4ff02f0d5dbe1",
+        "android_client_info": {
+          "package_name": "com.example.ss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031771737268-pg6ohmrm81qm2tenoicvgasmnpi4pl1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrMGWB-bfvuYyYnmG9-2brh2sdPGGaXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031771737268-pg6ohmrm81qm2tenoicvgasmnpi4pl1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

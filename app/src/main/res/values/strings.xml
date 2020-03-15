@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiBrain</string>
+    <string name="audio_record">  AUDIO RECORD</string>
+    <string name="menu">MAIN MENU</string>
+    <string name="quit">QUIT</string>
+    <string name="CheckPermission">Check Permission</string>
+    //Button texts
+    <string name="StartRecording">Record</string>
+    <string name="StopRecording">Stop Record</string>
+</resources>
